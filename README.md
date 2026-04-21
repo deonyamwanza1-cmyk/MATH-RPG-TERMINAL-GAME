@@ -32,6 +32,6 @@ To compile and run the game using the `g++` compiler from your terminal:
 4. Run the program without debugging (`Ctrl + F5`).
 
 ## 📸 Preview
-![Math-RPG Gameplay Correct Answer Screen](combatCorrectAnswer.png)
-![Math-RPG Gameplay Incorrect Answer Screen](combatIncorrectAnswer.png)
-![Math-RPG Gameplay Victory Screen](VictoryScreen.png)
+![Math-RPG Gameplay Correct Answer Screen](images/combatCorrectAnswer.png)
+![Math-RPG Gameplay Incorrect Answer Screen](images/combatIncorrectAnswer.png)
+![Math-RPG Gameplay Victory Screen](images/VictoryScreen.png)
