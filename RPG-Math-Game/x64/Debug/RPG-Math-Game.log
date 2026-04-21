@@ -1,3 +1,0 @@
-﻿  RPG-Math-Game.cpp
-C:\Users\deony\OneDrive\Desktop\Projects\RPG-Math-Game\RPG-Math-Game\RPG-Math-Game.cpp(147,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  RPG-Math-Game.vcxproj -> C:\Users\deony\OneDrive\Desktop\Projects\RPG-Math-Game\x64\Debug\RPG-Math-Game.exe
