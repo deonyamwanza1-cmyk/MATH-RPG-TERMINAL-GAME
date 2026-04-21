@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deony\\OneDrive\\Desktop\\Projects\\RPG-Math-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA87831C-A6F9-43B1-B76F-4843F58B3C23}|RPG-Math-Game\\RPG-Math-Game.vcxproj|C:\\Users\\deony\\OneDrive\\Desktop\\Projects\\RPG-Math-Game\\RPG-Math-Game\\RPG-Math-Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA87831C-A6F9-43B1-B76F-4843F58B3C23}|RPG-Math-Game\\RPG-Math-Game.vcxproj|solutionrelative:RPG-Math-Game\\RPG-Math-Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RPG-Math-Game.cpp",
+              "DocumentMoniker": "C:\\Users\\deony\\OneDrive\\Desktop\\Projects\\RPG-Math-Game\\RPG-Math-Game\\RPG-Math-Game.cpp",
+              "RelativeDocumentMoniker": "RPG-Math-Game\\RPG-Math-Game.cpp",
+              "ToolTip": "C:\\Users\\deony\\OneDrive\\Desktop\\Projects\\RPG-Math-Game\\RPG-Math-Game\\RPG-Math-Game.cpp",
+              "RelativeToolTip": "RPG-Math-Game\\RPG-Math-Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T17:36:10.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
